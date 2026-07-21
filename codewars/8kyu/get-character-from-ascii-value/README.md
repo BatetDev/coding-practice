@@ -1,6 +1,6 @@
 # Get Character From ASCII Value (8 kyu)
 
-https://www.codewars.com/kata/55ad04714f0b468e8200001c
+[Kata link](https://www.codewars.com/kata/55ad04714f0b468e8200001c)
 
 ## Notes
 
