@@ -6,5 +6,5 @@ Personal problem-solving log. Solved on Codewars, LeetCode, Exercism, and The Od
 
 - `codewars/` — Katas by difficulty
 - `leetcode/` — Problems by difficulty
-- `exercism/` — Track exercises
+- `exercism/` — Exercises by difficulty
 - `TOP-exercises/` — Non-project JS exercises from The Odin Project
