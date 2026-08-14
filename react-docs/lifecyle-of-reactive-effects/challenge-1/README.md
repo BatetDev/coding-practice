@@ -1,4 +1,4 @@
-# Challenge: Fix reconnecting on every keystroke
+# Challenge 1: Fix reconnecting on every keystroke
 
 [Link to challenge](https://react.dev/learn/lifecycle-of-reactive-effects#challenges)
 
