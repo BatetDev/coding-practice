@@ -8,3 +8,4 @@ Personal problem-solving log. Solved on Codewars, LeetCode, Exercism, and The Od
 - `leetcode/` — Problems by difficulty
 - `exercism/` — Exercises by difficulty
 - `TOP-exercises/` — Non-project JS exercises from The Odin Project
+- `react-docs/` — Challenges from the React documentation lessons
