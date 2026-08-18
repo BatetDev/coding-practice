@@ -1,6 +1,6 @@
 # Coding Practice
 
-Personal problem-solving log. Solved on Codewars, LeetCode, Exercism, and The Odin Project exercises.
+Personal problem-solving log. Includes solutions from Codewars, LeetCode, Exercism, The Odin Project, and official documentation challenges (e.g., React Docs).
 
 ## Structure
 
